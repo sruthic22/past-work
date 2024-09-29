@@ -22,7 +22,7 @@ This project is designed to streamline the management of lab experiments at Nort
 
 This project enhances the organization and efficiency of lab operations, ensuring that all necessary components are easily accessible and properly documented.
 
-
+---
 
 ## Zillow Housing Price Predictor
 
