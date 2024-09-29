@@ -46,5 +46,3 @@ The COVID-19 pandemic has significantly impacted the real estate market, particu
 ### Data Acquisition:
 The dataset consists of 1,062 samples collected from the top 20-25 most populated cities in Florida, Georgia, Alabama, South Carolina, and Tennessee. The features included in the dataset are year sold, ZIP code, number of bedrooms, number of bathrooms, square footage, month sold, broker, city, and state.
 
-For more details on data scraping, check out our [data scraping code](https://github.com/jasmineliu0114/Zillow-Housing-Price-Predictor/blob/main/FP2_Dataset.ipynb) and the resulting dataset can be found [here](https://github.com/jasmineliu0114/Zillow-Housing-Price-Predictor/blob/main/real_estate_prices_in_the_south.csv).
-
