@@ -22,6 +22,8 @@ This project is designed to streamline the management of lab experiments at Nort
 
 This project enhances the organization and efficiency of lab operations, ensuring that all necessary components are easily accessible and properly documented.
 
+
+
 ## Zillow Housing Price Predictor
 
 This project aims to analyze housing prices in the southern United States using data collected from Zillow.com. By employing machine learning algorithms and statistical modeling, we sought to create a predictive model for estimating home prices based on various characteristics of recently sold properties.
